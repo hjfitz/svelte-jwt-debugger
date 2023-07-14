@@ -91,4 +91,5 @@
     decodedHeader = formatJsonString(atob(header))
     decodedPayload = formatJsonString(atob(payload))
   }
+
 </script>
